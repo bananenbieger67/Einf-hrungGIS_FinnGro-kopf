@@ -1,2 +1,2 @@
-# Einf-hrungGIS_FinnGro-kopf
+# EinfuehrungGIS_FinnGrosskopf
 Uebungsabgaben etc
